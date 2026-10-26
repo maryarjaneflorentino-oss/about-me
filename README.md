@@ -15,7 +15,7 @@
        <header class="main-header">
   <div class="logo-container">
     <a href="/">
-      <img src="C:\Users\Dell\Downloads\index.html\cover.png" alt="SELFIE" class="header-logo">
+      <img src="cover.png" alt="SELFIE" class="header-logo">
     </a>
   </div>
 </header>
