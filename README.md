@@ -29,7 +29,7 @@
         <h2>My Project</h2>
        <section id="project-details">
     <p>FIRST PROJECT</p>
-    <img src="main.jpg" alt="Screenshot" >
+    <img src="main.jpg" alt="Screenshot"width="1000">
 </section>
         <div class="projects-grid">
             <!-- Project Card 1 -->
