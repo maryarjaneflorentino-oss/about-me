@@ -34,7 +34,7 @@
         <h2>My Project</h2>
        <section id="project-details">
     <p>FIRST PROJECT</p>
-    <img src="main.jng" alt="Screenshot" class="header-logo">
+    <img src="main.jpg" alt="Screenshot" >
 </section>
         <div class="projects-grid">
             <!-- Project Card 1 -->
