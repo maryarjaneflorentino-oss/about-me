@@ -34,7 +34,7 @@
         <h2>My Project</h2>
        <section id="project-details">
     <p>FIRST PROJECT</p>
-    <img src="C:\Users\Dell\Downloads\index.html\main.jpg"alt="Screenshot of the main dashboard" width="1000">
+    <img src="main.jpg"alt="Screenshot of the main dashboard" width="1000">
 </section>
         <div class="projects-grid">
             <!-- Project Card 1 -->
